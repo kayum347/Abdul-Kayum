@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Lato", sans-serif;
+}
+.navbar{
+  backgroud-color: #222;
+  padding: 20px 10px;
+  display: flex;
+  justify-content: space-between;
+}
